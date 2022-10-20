@@ -1,0 +1,20 @@
+
+
+body {
+  background-color: blue;
+  font-family: Arial, Helvetica, sans-serifjustify;
+  font-size: 20px;
+}
+
+h1 {
+    color: brown;
+    background-color: chartreuse;
+}
+
+h2 {
+    color: coral;
+}
+
+p {
+    text-align: justify;
+}
